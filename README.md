@@ -78,12 +78,10 @@ Task Management Service
 - Accessible at `http://<eureka-host>:<eureka-port>/`.
 
 ## Future Enhancements
-- Add authentication and authorization (e.g., OAuth2/JWT).
 - Implement notification services for task updates.
 - Enable CI/CD pipelines for seamless integration and deployment.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for review.
-
 
 Replace `<repository-url>`, `<gateway-host>`, `<gateway-port>`, `<eureka-host>`, and `<eureka-port>` with the actual values used in your project. Let me know if you’d like help with customizing further!
